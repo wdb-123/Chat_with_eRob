@@ -1,0 +1,20 @@
+{
+  "conversation": [
+    {
+      "role": "Human",
+      "content": "rotate -180 degree"
+    },
+    {
+      "role": "Human",
+      "content": "can you help me to control"
+    },
+    {
+      "role": "Human",
+      "content": "yep, set velocity 30000 duration 10 s"
+    },
+    {
+      "role": "Human",
+      "content": "well, negative direction"
+    }
+  ]
+}

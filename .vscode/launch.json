@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Isaac Sim Python: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/gui_main.py",
+            "console": "integratedTerminal",
+            "python": "D:\\Isaac_sim\\OMINIVERSE\\pkg\\isaac-sim-4.1.0\\python.bat",
+            "env": {
+                "PYTHONPATH": "${env:PYTHONPATH};D:\\Isaac_sim\\OMINIVERSE\\pkg\\isaac-sim-4.1.0"
+            },
+            "args": []
+        }
+    ]
+}
